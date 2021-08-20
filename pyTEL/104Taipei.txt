@@ -1,0 +1,300 @@
+職務名稱,公司名稱,區域,薪資,工作內容
+資料分析師,烏龜移動科技股份有限公司,台北市松山區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">蝙蝠移動的核心服務是提供客戶專屬的私有化 DMP（Data Management Platform 數據分析管理平台）。和每個客戶一起建立真正屬於自己產業 domain-knowledge 的數據分析管理平台，從技術和商業策略兩個面向完整的走完這個 Data Journey~
+
+蝙蝠移動公司官網：
+http://www.batmobile.com.tw
+
+媒體報導：
+1. https://www.inside.com.tw/2017/03/15/dmp
+2. http://www.brain.com.tw/news/articlecontent?ID=44515&amp;sort
+3. http://www.brain.com.tw/news/articlecontent?ID=23162&amp;sort=
+
+1. 數據分析、挖掘、建模、模式評估等相關工作，並進行模型評估 
+2. 資料視覺化設計
+3. 熟悉預測方法、發展推薦演算法、個人化演算法
+4. 爬蟲程式開發，並進行文字探勘</p>"
+資料分析師(總部),福清營造股份有限公司,台北市內湖區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">1.以EXCEL建置數據資料庫。 
+
+2.配合需求製作各項EXCEL報表。 
+
+3.分析平台資料，提出異常報告。</p>"
+AD10152 品質資料分析師,華碩電腦股份有限公司,台北市北投區,"月薪30,000元以上","<p class=""job-list-item__info b-clearfix b-content"">1. 彙整全球(WW/Region/Model)產品品質資料進行統計與分析，提供品質改善方向。
+2. 利用軟體工具進行大數據資料處理。
+3. 以數據分析協助流程或產品品質改善。
+4. 監控全球(WW/Region/Model) 品質指標，針對產品異常提出先期預警。
+5. 監控換料耗用趨勢確認是否為品質異常</p>"
+資料分析師 (Data Analyst),亞洲指標數位行銷顧問股份有限公司,台北市松山區,"月薪35,000~55,000元","<p class=""job-list-item__info b-clearfix b-content"">i-Buzz的核心理念是數據推動行銷策略，透過網路語料觀察與混搭資料研究進行開發，提供客戶深化的資料分析結果。另外欲透過自營的數位產品，挖掘使用者的行為數據，提供產品更好的體驗。
+
+職務內容如下：
+1. 文字探勘(80%工作碰到的資料都是文字語料)
+2. 進行資料建模
+3. 資料視覺化處理
+4. 開發預測模型
+5. 發展推薦演算法、個人化演算法
+
+此職缺需熟悉統計分析、Python或R語言、Machine Learning、MongoDB、SQL，有API串接或開發的經驗。
+
+誠摯歡迎符合以上條件，且具責任心、勇於接受挑戰者的加入。</p>"
+資深商業資料分析師 (Senior Business Analytics Manager),貝立德股份有限公司,台北市信義區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">Duties &amp; Responsibilities 
+1.	規劃數據藍圖，負責推展數據研究優化計畫以及數據資訊架構建置
+2.	針對商業研究議題，主持研究課題，跨部門溝通協調，訂定研究工作計劃，根據數據進行分析推論、提出洞見以及建議行動方案。
+3.	營運指標建置與 Dashboard 設計維運 
+4.	評估與導入數據相關新系統之規劃與建置作業，協助專案工作執行
+
+Qualifications 
+1.	工作經驗至少3年。 
+2.	學歷：大學以上商學、統計、數學、電算、數據以及資料科學等相關科系
+3.	技能：熟習商業分析、數據研究以及數據工程的運作與流程，具備分析與技術工具使用經驗 (GA、GTM、Data Studio、Python、Big Query 等)，熟悉 MYSQL/MSSQL 等資料庫分析工具
+4.	經驗：具產業商業與數據分析實務經驗三年以上，習慣創新與步調快速的環境，主動積極、擅溝通、團隊合作、抗壓性強
+</p>"
+客群資料分析師,台北富邦商業銀行股份有限公司,台北市大安區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">◆職位目的：
+  透過客群經營分析，擬定商業策略，發掘潛在商機。
+
+◆重要職責/工作內容：
+● 客群分析：針對薪轉戶、退休族、小富翁及家庭理財會員等子客群，進行客戶行為樣態及交易數據量化分析，擬定商業策略，規劃符合子客群需求的產品及服務。
+● 業務診斷：已多變量統計及視覺劃報表，追蹤各子客群動態及經營成效，規劃因應策略，從中發掘客群經營機會及產品跨售商機。</p>"
+【採線上面談】Data Analyst 資料分析師,新加坡商鈦坦科技股份有限公司台灣分公司,台北市南港區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">【Game changer, armed with data.】
+    You know all about our users, through data analysis. And because you do, you can 
+identify issues and present insights to our Product Owners, spurring them into 
+action. Working with your team, you play a key role in enhancing our business 
+value. After all, you're the one who ignited the spark. And no spark, no fire.
+
+【What a Data Analyst does in Titansoft】
+．Conduct data analysis to support Product Owner and Business Leaders in business 
+    decisions and requirements
+．Develop and automate reports for analytical purposes
+．Collaborate with other Product Development teams to understand their business 
+    needs, formulate and complete end-to-end analysis that includes data gathering, 
+    analysis, ongoing scaled deliverables and presentations
+．Support key decision makers to improve products and services
+
+【What we are looking for in a Data Analyst】
+  1. Qualifications：
+      Minimum Bachelor in Mathematics, Statistics, Finance, Computer Science, 
+      Information Technology or other equivalent qualifications
+
+  2. Experience：
+  ．Experience working with statistical software (e.g. R, Python, Excel, etc.) Basic 
+    statistical principles and practical applications
+  ．Experience in measuring cost and production
+  ．Experience in scripting with SQL
+
+  3. Skills：
+  ．A/B and Multivariate testing management
+  ．Data visualization (such as Tableau, Excel, etc)
+．Ability to translate analysis results into business recommendations and insights
+．Ability to present the insights clearly to technical and non-technical audiences
+．Strong written, verbal communication and presentations skills
+
+【What makes a (Super!) Data Analyst in Titansoft AKA the ""great to haves""】
+    Deep interest and aptitude in data, metrics, analysis and trends, and applied 
+    knowledge of measurement, statistics and program evaluation</p>"
+SA20088 資料分析師(Google Tag Manager、Google Analytics 與SEO),華碩電腦股份有限公司,台北市北投區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">這是一個支援全球 scale 的團隊，我們進行研究、實驗、建立政策、製作指導文件、發展課程，透過各種溝通方式及規模不一的專案合作，讓公司的數位行銷往最新且正確的方向發展。我們期許自己能在世界級的難題中提供世界級的解決方案。這是我們要求英文能力、細心及積極的原因。
+
+1.全球數據追蹤分析需求支援與維運。
+2.數據分析工具架構佈建、使用諮詢與管理 。
+3.HQ &amp; Local 數據分析 與 SEO 觀念與操作諮詢。
+4.Google與Facebook廣告平台技術導入與新應用研究，追蹤基礎佈建，再行銷廣告設定建議與協助。
+5.產品與平台數據追蹤與SEO優化：官網、商城、Support、ROG、MyASUS (APP)。</p>"
+035GKC_資料分析師/演算法工程師,神通資訊科技股份有限公司,台北市內湖區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">1.資料分析、模型建立、運用分析工具提供商業智慧；
+2.用戶溝通討論，協助用戶釐清需求，提出資料運用模型；
+3.透過統計，演算模型，機器學習手法分析資料，提出解決問題的方案；
+4.設計資料分析的方法，規劃資料分析服務的內容；
+5.能夠團隊合作，與不同領域的人員協同運作，進行資料分析工作。
+※工作待遇：將依學經歷進行敘薪。</p>"
+資料分析師,寶勝國際(控股)_寶原興業股份有限公司,台北市松山區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">大中華區有近萬間店鋪的寶勝集團
+正在全力發展新零售
+團隊的目標在開創新時代的運動零售體驗
+
+你將負責分析BI與會員資料庫數據
+主動從數據中挖掘消費者洞察，以客觀事實輔佐各部門決策及行動
+使團隊能在不確定性中找到方向，進而優化營運、達到行銷目標
+
+集團有充足的資源讓你一展長才、改變會員的生活
+如果你也熱愛運動、充滿活力、具有開創性的思維與務實的執行能力
+歡迎加入我們！一起成為改變產業的先行者
+
+1. 會員資料分析，運用演算法建立模型及優化，固定產出視覺化報表。
+2. 會員輪廓分析、行銷檔期名單產出，並提出CRM經營建議。
+3. 行銷資源、零售通路貢獻度等效益分析，以數據驅動行銷及零售運營團隊。
+4. 一同制定會員分群經營策略、方案執行與成果分析。
+5. 其它主管交辦事項。</p>"
+資料分析師,精藤股份有限公司,台北市中山區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">精藤公司為【全家便利商店股份有限公司】之子公司，精藤做為集團資訊整合的中心，不但承擔著集團「系統整合」及「Know-How彙整」的責任，同時也扮演了集團最堅強的技術發展領航者及實踐者。
+
+而支援這團隊成長的背後，除了穩定成長的零售通路資訊發展需求以外，亦包含了精藤20年來不斷精進的程式開發技術以及重視團隊合作的組織文化。
+
+在精藤，除了可以學習各項資訊系統規劃、開發、監控與維護（如：物流管理系統、帳務管理系統、商品管理系統，與情報分析系統......等數以百計的資訊系統，精藤皆自行開發與維護），更有完善的公司治理與開發標準，可做為所有資訊人員執行專案時的後盾。
+
+除此之外，精藤近年來亦不斷追求更多新領域的發展，例如：雲端科技應用、大數據資料分析以及行動裝置管理技術等等，誠摯的歡迎所有對於零售流通有興趣的伙伴一同加入精藤的大家庭。
+
+本公司資料分析師之職務內容如下：
+1. 數據清理、數據標籤定義與採集
+2. 數據結果給予最佳視覺化建議與呈現
+3. 對於各系統間數據的串接與整合分析、建模分析(Modeling)等
+4. 規劃並執行數據相關的分析專案
+
+此職缺需熟悉統計分析、SQL、Python、R語言、Machine Learning與SPSS，且具備資料分析2年以上工作經驗。誠摯歡迎符合以上條件，且具責任心、勇於接受挑戰者的加入。</p>"
+商業資料分析師/數據分析師/資料科學家 (台北),復煜生物科技有限公司,台北市松山區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">運用資料科學專業，協助公司掌握有價值的資料並獲得洞見，本職務將專注於協助電商的銷量與銷售策略、行銷與研發部，對應的產業是生物科技公司所研發的營養品牌。
+
+【職務條件】 
+ 1. 與行銷/研發部溝通了解需求目的、想解決的問題與希望獲得的商業價值。
+2. 定義數據收集與後續分析需求，建構所需要的資料處理流程並協助公司進行數據處理(清洗、ETL、標籤、特徵提取等)。
+3. 依據數據處理與分析需求，建構數據模型，視實際情況調整並優化模型與流程。
+4. 進行各種數據追蹤和分析，針對商業問題提供有用數據、評估與應用在品牌環境中，並持續優化與修正。
+5. 將數據結果給予最佳的視覺化建議與呈現。
+6.將以上所提到的內容，運用在「品牌行銷」及優化銷售策略（PS：可提供資料科學角度的銷售策略）。 
+7. 比如 a.精準廣告投放  b.精準定價  c.利潤/數量最佳化  d.口碑熱度文字雲  e.產業消費者議題爬蟲  f.競品分析，並建立相關儀表板。
+
+【職務技能】 
+ 1. 分類分群、推薦、迴歸預測等機器學習相關實作經驗。
+ 2. 熟悉程式與分析應用，如 Python, R, SPSS, MATLAB, SAS 至少會上述一種應用。
+ 
+【加分條件】 
+1. 大數據生態系(Big Data Ecosystem)，如 Hadoop, Spark, MapReduce, Hive 等。
+2. 熟悉商業智慧(BI)工具，如 Tableau, QuickView, Qlik, PowerBI, Quicksight 等。
+3. 具有行銷代理商、品牌端、品牌行銷、電商的經驗。
+4. 主動積極、做事細心、責任心強、溝通能力佳、注重團隊合作精神。 
+5. 對數字具有敏感度與興趣，正向思考、自律性及配合度高能夠獨立思考，主動發現問題。
+
+【上班時間】 
+上班時間面談
+</p>"
+資料分析師/資料科學家,和泰聯網股份有限公司,台北市中山區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">工作內容：
+1.	彙整集團內可運用的數據，參與數據應用、顧客分析、顧客貼標等實際專案執行。
+2.	可自行依據產品特性規劃數據收集策略，運用分析工具進行數據挖掘，協助開發/維運BI Dashboard。
+3.	解讀數據後，將分析結果製成簡報，與客戶討論。
+ 
+本職務需具備以下技能：
+1.	熟悉線上數據收集工具(包含Google Tag Manager, Google Analytics, Firebase, Big Query)，具2-3年實作經驗。
+2.	具數據分析實務經驗者(資料撈取／清整／分析至建立洞察模型) 
+3.	熟悉數據程式語言 (如R、Python)
+4.	需具備Data Visualization（如：Data Studio, Power BI…等）
+5.	進階統計模型(Regression, Clustering, Segmentation...) 的應用經驗 
+6.	溝通能力佳
+7.	能快速學習與適應新技術，樂於接受改變與挑戰 
+ 
+
+ 
+</p>"
+Python 資料分析師,干城數碼有限公司,台北市中山區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">1.使用統計、機器學習、深度學習等演算法進行建模
+2.協助定義商業問題以及方法論，定義假說以及指標，調整設計數據模型 
+3.資料分析專案管理 
+4.負責專案之提案/執行
+5.銷量預測、零件用量預測、「線性規劃方法」作優化產品生產計畫</p>"
+資料分析師(T53),關貿網路股份有限公司,台北市南港區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">建立分析統計預測模型及演算法
+視覺化報表設計</p>"
+資料分析師 Data Analyst,睿點行動股份有限公司,台北市松山區,"年薪700,000~1,000,000元","<p class=""job-list-item__info b-clearfix b-content"">睿點行動致力於 FinTech 產品開發，並提供數據分析服務，我們的兩個產品：
+1. 『發票存摺 (Invos)』：國內發票應用 APP 第一名，超過 500 萬下載，百萬 MAU，擁有超過十億筆消費數據，提供客戶大數據分析服務，和智能化推薦服務。
+2. 『麻布記帳 (MoneyBook)』：全台唯一提供「全資產自動整合服務」的產品，參與開放銀行 Open API 政策第一、二階段，目前已串接 32 家銀行、17 家信用卡、18 家證券，合作銀行家數為國內TSP（第三方服務業者）之最。
+
+我們很重視使用者聲音，善用數據進行產品功能開發，內部採 Scrum 模式運作，小步快跑快速迭代產品。
+
+此外，我們也重視使用者隱私與資訊安全管理，引進國際資安標準 ISO/IEC 27001，並通過加拿大第三方驗證公司之資安驗證。
+
+【職務內容】
+您將負責「發票存摺」和「麻布記帳」的數據分析，將接觸到用戶的日常交易、消費、金融、和使用行為等多樣且大量的數據資料。
+
+工作內容主要為商業數據調研，並將調研作業標準化，包含：調研問卷設計、產品數據分析、調研洞察報告產出，提出商業 insight，供客戶進行商業決策。
+
+此外，您也將負責部分數據處理和模型作業，內容涉及數據清洗、特徵工程、統計取樣、和數據模型建置等作業，將數據轉化為商業洞察，挖掘市場消費趨勢和勾勒使用者樣貌。
+
+這個職務中：
+1. 技術佔比 40%，商業思維佔比 60%，若您是純工程師，或者不懂技術的市場分析人員，這個職務可能不太適合您。
+2. 您將與營運、業務和數據團隊密切合作，協作構建問題，分析商業所需的數據需求，共同合作開發產品應用，或發表分析報告。
+3. 希望您是個熱衷於產品開發，願意不斷學習新技術，並樂於分享討論的夥伴，您可以盡情展現你的專業技能，提供決策建議，協助團隊解決各種挑戰性的問題。
+4. 我們的內部環境自由，可自由參與其他產品開發等專案，不斷增加能力，你將會接觸到系統和技術：
+- Data Studio / Metabase
+- Google Cloud Platform
+- Containers &amp; Serverless (Kubernetes, GAE ...)
+- BigQuery / ClickHouse
+- Pub/Sub
+
+【必要條件】
+這個職務，我們希望您具備以下能力：
+Hard Skills:
+1. 對商業分析有深刻理解，能夠從數據中找出商業 insight。
+2. 至少 2 年 資料分析實務經驗，熟悉 Python Pandas、NumPy，熟悉 SQL 語法，有 RMDBS 和 NoSQL 經驗。
+3. 具備資料視覺化能力，熟悉一種以上視覺化工具，如：Data Studio。
+4. 熟悉統計和機率。
+
+Soft Skills:
+1. 具有良好的溝通和表達能力，能有邏輯的將您的意見、需求和見解表達出來。
+2. 樂於提出自己的觀點和見解，但能同時接納其他不同的意見。
+3. 善用證據和合理的邏輯驗證自己的假設和觀點。
+4. 不畏懼挑戰，樂於解決陌生問題。
+
+【加分項目】
+1. 有市場調研或產業分析經驗者佳。
+2. 金融領域背景，具有金融模型相關經驗者。
+3. 有 GCP、機器學習、深度學習實務經驗，實際應用於商業上。
+
+ 
+</p>"
+[Adtech] 商業資料分析師 (Business Data Analyst),酷遊天股份有限公司,台北市內湖區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">KKday 的願景是讓每個人能夠隨心所欲地踏上旅程，足跡踏遍全世界。即使疫情使跨國旅遊變得不可能，KKday 仍透過深化國內旅遊突破營收的上限，也成功獲得投資人的認可，於疫情最嚴重時募得 C 輪 7500 萬美金。
+
+【職務說明】
+- 透過商業視角與數據驅動思維，結合基礎統計分析，創造商業價值輔以廣告行銷決策。
+- 會與資料科學家密切合作，能夠轉化業務與行銷需求成技術邏輯，並也需要將資料科學家完成之模型，應用於設計視覺化報表。
+- BI 商業智慧報表工具會是日常最主要使用的分析工具。
+- 需協助定義業務問題、需求訪談。我們所面臨的商業目標會涵蓋各大市場面向，非常有趣且有挑戰性。
+- 使用基礎的 SQL 語法，彙整資料庫的數據，以供數據分析使用。
+- 需要與行銷和業務端合作執行各種實驗，確保我們做出來的數據產品產出能符合行銷與業務效益。
+
+【必要條件】
+- 良好的溝通與表達能力，能夠善用各種資料視覺化方法。
+- 熟悉基礎的 SQL 語法，有從關聯式資料庫查詢資料的經驗。
+- 熟悉任一 BI 報表工具 (Tableau/Data Studio/PowerBI/…...)。
+- 熟悉廣告行銷應用場景以及有使用任一數位行銷工具 Google Analytics/Google Ads/FB Ads 的經驗。
+- 需曾經在電商 (E-Commerse) /零售 (Retail) /內容發佈商 (Content Provider) 工作過、或是有服務過這些產業客戶的經驗。
+
+</p>"
+行銷分析人員（資料分析師 Data Analyst）,摩爾空間有限公司,台北市大同區,"月薪36,000元以上","<p class=""job-list-item__info b-clearfix b-content"">針對 [行銷策略] [廣告數據] [經營管理] 之資料處理及數據分析，根據不同議題、資料來源，設計資料模型，並以視覺化報表的形式呈現分析結果。
+
+此工作需與執行長、副總等高階管理人員，及行銷人員、系統工程師、網頁工程師密切討論合作，需具備跨領域知識及跨部門溝通能力。
+
+歡迎熱愛資料分析，喜歡討論經營策略，自我學習能力強，可獨立作業者來挑戰！
+
+工作內容：
+1. 分析用戶數據，觀察消費者行為及需求，並提出優化方向與解決方案
+（包含租戶資料分析、消費者行為研究、市場調查、滿意度調查...等）
+2. 業績分析並擬定改善策略
+3. 產品定價及調價
+4. 制定銷售工具、優化顧客使用體驗
+5. 廣告成本最佳化
+（提案 A/B Testing，持續優化廣告成效，提升轉換率）
+6. 專案管理
+
+具備條件：
+有程式撰寫能力(Python尤佳)，能自行進行資料蒐集整理、分析流程
+具統計、資料科學能力，同時具備心理學背景者加分
+邏輯能力佳、擅溝通、有彈性應變的能力
+2年以上數據分析相關工作經驗
+
+公司介紹：
+摩爾空間(Morespace) - 個人倉庫領導品牌，全台超過40間直營分店，致力成為民眾美好生活的好夥伴，秉持「More Space,More Life」的使命，希望在房價高漲的年代，讓台灣人能輕鬆擁有美好的居家生活，讓家像樣品屋般的整潔漂亮！讓空間不再成為最沉重的負擔！
+
+摩爾空間成立於2008年，我們創造了超過三萬名顧客，個人倉庫是新的商業模式，更是未來會持續成長的產業，因此我們需要有創意、有工作熱情、有執行力的你！若你喜歡有效率的工作方式、開放性的溝通、充分授權的管理方式，歡迎你來聊聊！
+
+</p>"
+Data Analyst / 資料分析師,瑞嘉軟體科技股份有限公司,台北市內湖區,"月薪55,000~142,000元","<p class=""job-list-item__info b-clearfix b-content"">‧  Discover insights from a wide variety of data sources for potential business decisions.
+‧  Collaborate across marketing, business operations, and business leaders to understand business questions.
+‧  Create detailed report based on data mining and data visualization for business requirement.
+‧  Perform other duties as necessary.</p>"
+Energy Data Analyst 能源資料分析師,Gogoro Taiwan Limited_睿能創意股份有限公司,台北市松山區,待遇面議,"<p class=""job-list-item__info b-clearfix b-content"">Who We Are
+We started with an idea. An idea to revolutionize the way we consume energy and transform the urban cityscape. To make that an idea a reality, we leveraged cutting edge technology and top talents in the market. Now in 2020, we are growing faster than ever, bringing onboard new ideas, new faces and new dreams. We are more than just a smart scooter company, more than just an energy network company. We are a game changer for vehicle design. We are a trendsetter for software advancements. We are an industry leader for modern transport solutions. We are Gogoro.
+
+Meet the Team
+Data is the core of Gogoro Network. This is the only network with thousands of battery swap stations and hundreds of thousands of electric vehicles, all powered by smart batteries that generate vast amounts of data. 
+We are the Energy Data Team, we build the future we desire. One brick at a time. Energy Data Team is a novel team that leverages the data we collect. The team works closely within a cross-disciplinary R&amp;D engineering team including hardware, software, firmware, electrical, chemistry, and thermal engineers. By using data, the team solves problems, discovers trends, identifies opportunities, and produces actionable insights into our product design and network operations. 
+At the Energy Data team, we work with equality, transparency, and efficiency. We are looking for talents to join us to build the future.
+
+Position Impact
+This role will bridge the last mile from data to impact. Data does not speak for itself. As a Data Analyst, you are the interpreter who translates data from numbers to trends, patterns, or even stories, in a way that non-technical people could easily understand. You are the one who provides data meanings and values by using it to answer complex questions and point out the right direction for the organization. You will deliver high-quality, low-latency analytics in a fast-paced data-driven department. Working in a constantly changing data industry, you embrace uncertainty and take it as an opportunity to grow.
+
+Responsibility and Expectation
+You will analyze factors that move key performance metrics such as battery lifespan, product sustainability, and user experience. The working responsibilities may include:
+- Supply high-quality data analysis that motivates critical engineering design decisions. 
+- Devise scientific methods to identify and monitor key performance metrics.
+- Analyze historical data from failed devices to identify or predict the failure mode and root cause. 
+- Design algorithms to optimize battery charging and distribution strategies. 
+- Design experiments to evaluate the effectiveness of battery management algorithms.</p>"
